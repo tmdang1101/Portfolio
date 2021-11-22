@@ -1,3 +1,1 @@
-This is my Portfolio Website. I made it using a public template.
-
-This website presents the projects that I have worked on with the purpose to show what I did and what I learned from them.
+This is my Portfolio Website. It's meant to showcase the projects that I've worked on with the purpose of showing what I did and what I learned from them.
